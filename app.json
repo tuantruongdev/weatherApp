@@ -1,0 +1,12 @@
+{
+  "name": "tut2",
+  "displayName": "tut2",
+  "expo": {
+    "name": "tut2",
+    "slug": "tut2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
